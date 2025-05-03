@@ -1,0 +1,806 @@
+[
+  {
+    "korean": "삼계탕",
+    "english": "Samgyetang"
+  },
+  {
+    "korean": "토요일",
+    "english": "Saturday"
+  },
+  {
+    "korean": "설렁탕",
+    "english": "Seolleongtang"
+  },
+  {
+    "korean": "서울",
+    "english": "Seoul"
+  },
+  {
+    "korean": "서울역",
+    "english": "Seoul station"
+  },
+  {
+    "korean": "구월",
+    "english": "September"
+  },
+  {
+    "korean": "님",
+    "english": "Sir"
+  },
+  {
+    "korean": "남미",
+    "english": "South America"
+  },
+  {
+    "korean": "스페인어",
+    "english": "Spanish"
+  },
+  {
+    "korean": "일요일",
+    "english": "Sunday"
+  },
+  {
+    "korean": "슬프다",
+    "english": "sad"
+  },
+  {
+    "korean": "안전하다",
+    "english": "safe"
+  },
+  {
+    "korean": "할인",
+    "english": "sale, discount"
+  },
+  {
+    "korean": "소금",
+    "english": "salt"
+  },
+  {
+    "korean": "짜다",
+    "english": "salty, make (the plan)"
+  },
+  {
+    "korean": "같다",
+    "english": "same"
+  },
+  {
+    "korean": "똑같다",
+    "english": "same"
+  },
+  {
+    "korean": "샌드위치",
+    "english": "sandwich"
+  },
+  {
+    "korean": "구하다",
+    "english": "save, seek, get"
+  },
+  {
+    "korean": "말하다",
+    "english": "say, talk"
+  },
+  {
+    "korean": "무섭다",
+    "english": "scary"
+  },
+  {
+    "korean": "시간표",
+    "english": "schedule, timetable"
+  },
+  {
+    "korean": "학교",
+    "english": "school"
+  },
+  {
+    "korean": "과학",
+    "english": "science"
+  },
+  {
+    "korean": "가위",
+    "english": "scissors"
+  },
+  {
+    "korean": "점수",
+    "english": "score, point"
+  },
+  {
+    "korean": "바다",
+    "english": "sea"
+  },
+  {
+    "korean": "계절",
+    "english": "season"
+  },
+  {
+    "korean": "자리",
+    "english": "seat, location"
+  },
+  {
+    "korean": "김",
+    "english": "seaweed"
+  },
+  {
+    "korean": "둘째",
+    "english": "second, the second of~"
+  },
+  {
+    "korean": "비밀",
+    "english": "secret"
+  },
+  {
+    "korean": "보다",
+    "english": "see"
+  },
+  {
+    "korean": "씨",
+    "english": "seed, Mr. ~"
+  },
+  {
+    "korean": "팔다",
+    "english": "sell"
+  },
+  {
+    "korean": "팔리다",
+    "english": "sell, be sold"
+  },
+  {
+    "korean": "학기",
+    "english": "semester"
+  },
+  {
+    "korean": "부치다",
+    "english": "send, fry, transmit"
+  },
+  {
+    "korean": "보내다",
+    "english": "send, spend"
+  },
+  {
+    "korean": "감동",
+    "english": "sensation"
+  },
+  {
+    "korean": "문장",
+    "english": "sentence"
+  },
+  {
+    "korean": "따로",
+    "english": "separately"
+  },
+  {
+    "korean": "서비스",
+    "english": "service"
+  },
+  {
+    "korean": "세우다",
+    "english": "set up, formulate"
+  },
+  {
+    "korean": "여러가지",
+    "english": "several, various"
+  },
+  {
+    "korean": "심하다",
+    "english": "severe, terrible"
+  },
+  {
+    "korean": "샴푸",
+    "english": "shampoo"
+  },
+  {
+    "korean": "모양",
+    "english": "shape, form, style"
+  },
+  {
+    "korean": "나누다",
+    "english": "share, divide"
+  },
+  {
+    "korean": "배",
+    "english": "ship, stomach, pear"
+  },
+  {
+    "korean": "조선",
+    "english": "shipbuilding, Korea"
+  },
+  {
+    "korean": "와이셔츠",
+    "english": "shirt"
+  },
+  {
+    "korean": "구두",
+    "english": "shoes"
+  },
+  {
+    "korean": "신발",
+    "english": "shoes, footwear"
+  },
+  {
+    "korean": "쇼핑",
+    "english": "shopping"
+  },
+  {
+    "korean": "짧다",
+    "english": "short"
+  },
+  {
+    "korean": "반바지",
+    "english": "shorts"
+  },
+  {
+    "korean": "어깨",
+    "english": "shoulder"
+  },
+  {
+    "korean": "메다",
+    "english": "shoulder, carry"
+  },
+  {
+    "korean": "보이다",
+    "english": "show, look"
+  },
+  {
+    "korean": "공연",
+    "english": "show, public performance"
+  },
+  {
+    "korean": "새우",
+    "english": "shrimp"
+  },
+  {
+    "korean": "줄다",
+    "english": "shrink, decrease"
+  },
+  {
+    "korean": "닫히다",
+    "english": "shut, close"
+  },
+  {
+    "korean": "형제",
+    "english": "sibling"
+  },
+  {
+    "korean": "몸살",
+    "english": "sickness, disease that comes from fatigue"
+  },
+  {
+    "korean": "옆",
+    "english": "side"
+  },
+  {
+    "korean": "반찬",
+    "english": "side dish"
+  },
+  {
+    "korean": "편",
+    "english": "side, episode"
+  },
+  {
+    "korean": "쪽",
+    "english": "side, page"
+  },
+  {
+    "korean": "부업",
+    "english": "sideline"
+  },
+  {
+    "korean": "보도",
+    "english": "sidewalk, report"
+  },
+  {
+    "korean": "사인하다",
+    "english": "sign"
+  },
+  {
+    "korean": "인",
+    "english": "sign, ~ person(s)"
+  },
+  {
+    "korean": "조용하다",
+    "english": "silent, quiet"
+  },
+  {
+    "korean": "비슷하다",
+    "english": "similar, like"
+  },
+  {
+    "korean": "간단하다",
+    "english": "simple, easy"
+  },
+  {
+    "korean": "간단히",
+    "english": "simply"
+  },
+  {
+    "korean": "노래하다",
+    "english": "sing"
+  },
+  {
+    "korean": "가수",
+    "english": "singer"
+  },
+  {
+    "korean": "누나",
+    "english": "sister (as seen from the younger brother)"
+  },
+  {
+    "korean": "언니",
+    "english": "sister (as seen from the younger sister)"
+  },
+  {
+    "korean": "앉다",
+    "english": "sit"
+  },
+  {
+    "korean": "사이즈",
+    "english": "size"
+  },
+  {
+    "korean": "크기",
+    "english": "size"
+  },
+  {
+    "korean": "스케이트",
+    "english": "skate"
+  },
+  {
+    "korean": "스키장",
+    "english": "ski resort"
+  },
+  {
+    "korean": "스키",
+    "english": "ski, skiing"
+  },
+  {
+    "korean": "로션",
+    "english": "skin lotion"
+  },
+  {
+    "korean": "치마",
+    "english": "skirt"
+  },
+  {
+    "korean": "하늘",
+    "english": "sky"
+  },
+  {
+    "korean": "하늘색",
+    "english": "sky blue, light blue"
+  },
+  {
+    "korean": "자다",
+    "english": "sleep"
+  },
+  {
+    "korean": "잠자다",
+    "english": "sleep, go to bed"
+  },
+  {
+    "korean": "주무시다",
+    "english": "sleep, rest"
+  },
+  {
+    "korean": "약간",
+    "english": "slightly, a little"
+  },
+  {
+    "korean": "느리다",
+    "english": "slow"
+  },
+  {
+    "korean": "천천히",
+    "english": "slowly"
+  },
+  {
+    "korean": "잠",
+    "english": "slumbers, sleep"
+  },
+  {
+    "korean": "작다",
+    "english": "small"
+  },
+  {
+    "korean": "소",
+    "english": "small, cow"
+  },
+  {
+    "korean": "냄새",
+    "english": "smell"
+  },
+  {
+    "korean": "피우다",
+    "english": "smoke, bloom"
+  },
+  {
+    "korean": "간식",
+    "english": "snack"
+  },
+  {
+    "korean": "과자",
+    "english": "snack"
+  },
+  {
+    "korean": "콧물",
+    "english": "snot, nasal discharge"
+  },
+  {
+    "korean": "눈사람",
+    "english": "snowman"
+  },
+  {
+    "korean": "그러니까",
+    "english": "so, because"
+  },
+  {
+    "korean": "그래서",
+    "english": "so, thus"
+  },
+  {
+    "korean": "비누",
+    "english": "soap"
+  },
+  {
+    "korean": "양말",
+    "english": "socks"
+  },
+  {
+    "korean": "소파",
+    "english": "sofa"
+  },
+  {
+    "korean": "부드럽다",
+    "english": "soft, friendly"
+  },
+  {
+    "korean": "군인",
+    "english": "soldier, military personnel"
+  },
+  {
+    "korean": "풀다",
+    "english": "solve"
+  },
+  {
+    "korean": "가끔",
+    "english": "sometimes"
+  },
+  {
+    "korean": "아들",
+    "english": "son"
+  },
+  {
+    "korean": "가요",
+    "english": "song"
+  },
+  {
+    "korean": "노래",
+    "english": "song"
+  },
+  {
+    "korean": "곧",
+    "english": "soon"
+  },
+  {
+    "korean": "금방",
+    "english": "soon, a little while ago"
+  },
+  {
+    "korean": "슬퍼하다",
+    "english": "sorrow, mourn"
+  },
+  {
+    "korean": "미안하다",
+    "english": "sorry"
+  },
+  {
+    "korean": "죄송하다",
+    "english": "sorry"
+  },
+  {
+    "korean": "소리",
+    "english": "sound, voice"
+  },
+  {
+    "korean": "국",
+    "english": "soup"
+  },
+  {
+    "korean": "시다",
+    "english": "sour"
+  },
+  {
+    "korean": "남쪽",
+    "english": "south"
+  },
+  {
+    "korean": "남",
+    "english": "south, man"
+  },
+  {
+    "korean": "간장",
+    "english": "soy sauce"
+  },
+  {
+    "korean": "된장국",
+    "english": "soybean paste soup"
+  },
+  {
+    "korean": "된장찌개",
+    "english": "soybean paste stew"
+  },
+  {
+    "korean": "공간",
+    "english": "space"
+  },
+  {
+    "korean": "말하기",
+    "english": "speaking"
+  },
+  {
+    "korean": "맵다",
+    "english": "spicy"
+  },
+  {
+    "korean": "영",
+    "english": "spirit, zero"
+  },
+  {
+    "korean": "나빠지다",
+    "english": "spoil, deteriorate"
+  },
+  {
+    "korean": "숟가락",
+    "english": "spoon"
+  },
+  {
+    "korean": "스포츠",
+    "english": "sport"
+  },
+  {
+    "korean": "운동화",
+    "english": "sports shoes"
+  },
+  {
+    "korean": "운동복",
+    "english": "sportswear, gym clothes"
+  },
+  {
+    "korean": "펴다",
+    "english": "spread, stretch"
+  },
+  {
+    "korean": "봄",
+    "english": "spring"
+  },
+  {
+    "korean": "오징어",
+    "english": "squid"
+  },
+  {
+    "korean": "쌓이다",
+    "english": "stack up, pile up"
+  },
+  {
+    "korean": "경기장",
+    "english": "stadium, arena"
+  },
+  {
+    "korean": "계단",
+    "english": "stairs"
+  },
+  {
+    "korean": "우표",
+    "english": "stamp"
+  },
+  {
+    "korean": "서다",
+    "english": "stand"
+  },
+  {
+    "korean": "별",
+    "english": "star"
+  },
+  {
+    "korean": "스타",
+    "english": "star"
+  },
+  {
+    "korean": "눈싸움",
+    "english": "staring contest, snowball fight"
+  },
+  {
+    "korean": "시작",
+    "english": "start"
+  },
+  {
+    "korean": "시작하다",
+    "english": "start, begin"
+  },
+  {
+    "korean": "출발",
+    "english": "start, departure"
+  },
+  {
+    "korean": "깜짝",
+    "english": "startled, surprised"
+  },
+  {
+    "korean": "역",
+    "english": "station"
+  },
+  {
+    "korean": "정류장",
+    "english": "station, bus stop"
+  },
+  {
+    "korean": "정거장",
+    "english": "station, depot"
+  },
+  {
+    "korean": "문구점",
+    "english": "stationery store"
+  },
+  {
+    "korean": "지내다",
+    "english": "stay, spend, live"
+  },
+  {
+    "korean": "찌개",
+    "english": "stew, soup"
+  },
+  {
+    "korean": "붙다",
+    "english": "stick, pass a test"
+  },
+  {
+    "korean": "스타킹",
+    "english": "stockings"
+  },
+  {
+    "korean": "배탈",
+    "english": "stomachache"
+  },
+  {
+    "korean": "그치다",
+    "english": "stop, end, cease"
+  },
+  {
+    "korean": "그만",
+    "english": "stop, finish"
+  },
+  {
+    "korean": "가게",
+    "english": "store, shop"
+  },
+  {
+    "korean": "이야기",
+    "english": "story"
+  },
+  {
+    "korean": "정리하다",
+    "english": "straighten out, organize"
+  },
+  {
+    "korean": "이상하다",
+    "english": "strange, funny, weird"
+  },
+  {
+    "korean": "딸기",
+    "english": "strawberry"
+  },
+  {
+    "korean": "거리",
+    "english": "street"
+  },
+  {
+    "korean": "스트레스",
+    "english": "stress"
+  },
+  {
+    "korean": "학생",
+    "english": "student"
+  },
+  {
+    "korean": "학생증",
+    "english": "student ID card"
+  },
+  {
+    "korean": "공부",
+    "english": "study"
+  },
+  {
+    "korean": "공부하다",
+    "english": "study"
+  },
+  {
+    "korean": "유학",
+    "english": "study abroad"
+  },
+  {
+    "korean": "물건",
+    "english": "stuff, thing"
+  },
+  {
+    "korean": "교체",
+    "english": "substitute, change"
+  },
+  {
+    "korean": "시외",
+    "english": "suburbs"
+  },
+  {
+    "korean": "지하철",
+    "english": "subway"
+  },
+  {
+    "korean": "지하철역",
+    "english": "subway station"
+  },
+  {
+    "korean": "빨다",
+    "english": "suck, do laundry"
+  },
+  {
+    "korean": "갑자기",
+    "english": "suddenly"
+  },
+  {
+    "korean": "설탕",
+    "english": "sugar"
+  },
+  {
+    "korean": "양복",
+    "english": "suit"
+  },
+  {
+    "korean": "여름",
+    "english": "summer"
+  },
+  {
+    "korean": "햇빛",
+    "english": "sunshine, sunlight"
+  },
+  {
+    "korean": "슈퍼마켓",
+    "english": "supermarket"
+  },
+  {
+    "korean": "물론",
+    "english": "sure, of course"
+  },
+  {
+    "korean": "무리",
+    "english": "swarm, unreasonable"
+  },
+  {
+    "korean": "땀",
+    "english": "sweat"
+  },
+  {
+    "korean": "스웨터",
+    "english": "sweater"
+  },
+  {
+    "korean": "청소하다",
+    "english": "sweep, clean"
+  },
+  {
+    "korean": "달다",
+    "english": "sweet"
+  },
+  {
+    "korean": "수영",
+    "english": "swimming"
+  },
+  {
+    "korean": "수영장",
+    "english": "swimming pool"
+  },
+  {
+    "korean": "수영복",
+    "english": "swimsuit"
+  },
+  {
+    "korean": "증세",
+    "english": "symptom, medical condition"
+  }
+]

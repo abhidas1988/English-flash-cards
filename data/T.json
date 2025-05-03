@@ -1,0 +1,510 @@
+[
+  {
+    "korean": "텔레비전",
+    "english": "TV"
+  },
+  {
+    "korean": "태권도",
+    "english": "Taekwondo"
+  },
+  {
+    "korean": "태국",
+    "english": "Thailand"
+  },
+  {
+    "korean": "고맙습니다",
+    "english": "Thank you"
+  },
+  {
+    "korean": "고마웠습니다",
+    "english": "Thank you (past tense)"
+  },
+  {
+    "korean": "그렇습니다",
+    "english": "That's right."
+  },
+  {
+    "korean": "맞습니다",
+    "english": "That's right."
+  },
+  {
+    "korean": "맞아요",
+    "english": "That's right."
+  },
+  {
+    "korean": "영국",
+    "english": "The United Kingdom"
+  },
+  {
+    "korean": "미국",
+    "english": "The United States"
+  },
+  {
+    "korean": "목요일",
+    "english": "Thursday"
+  },
+  {
+    "korean": "도쿄",
+    "english": "Tokyo"
+  },
+  {
+    "korean": "떡볶이",
+    "english": "Toppogi"
+  },
+  {
+    "korean": "화요일",
+    "english": "Tuesday"
+  },
+  {
+    "korean": "티셔츠",
+    "english": "t-shirt"
+  },
+  {
+    "korean": "식탁",
+    "english": "table"
+  },
+  {
+    "korean": "테이블",
+    "english": "table"
+  },
+  {
+    "korean": "탁구",
+    "english": "table tennis"
+  },
+  {
+    "korean": "표",
+    "english": "table, ticket"
+  },
+  {
+    "korean": "목욕하다",
+    "english": "take a bath"
+  },
+  {
+    "korean": "구경하다",
+    "english": "take a look"
+  },
+  {
+    "korean": "촬영하다",
+    "english": "take a picture"
+  },
+  {
+    "korean": "샤워하다",
+    "english": "take a shower"
+  },
+  {
+    "korean": "가져가다",
+    "english": "take away"
+  },
+  {
+    "korean": "벗다",
+    "english": "take off (clothes, shoes)"
+  },
+  {
+    "korean": "꺼내다",
+    "english": "take out"
+  },
+  {
+    "korean": "모시다",
+    "english": "take you, serve you  (honorific form)"
+  },
+  {
+    "korean": "말씀하다",
+    "english": "talk"
+  },
+  {
+    "korean": "얘기하다",
+    "english": "talk"
+  },
+  {
+    "korean": "이야기하다",
+    "english": "talk"
+  },
+  {
+    "korean": "수돗물",
+    "english": "tap water"
+  },
+  {
+    "korean": "지각",
+    "english": "tardy, being late"
+  },
+  {
+    "korean": "택시",
+    "english": "taxi"
+  },
+  {
+    "korean": "가르치다",
+    "english": "teach"
+  },
+  {
+    "korean": "선생님",
+    "english": "teacher"
+  },
+  {
+    "korean": "팀",
+    "english": "team"
+  },
+  {
+    "korean": "눈물",
+    "english": "tear"
+  },
+  {
+    "korean": "전화",
+    "english": "telephone"
+  },
+  {
+    "korean": "전화기",
+    "english": "telephone"
+  },
+  {
+    "korean": "전하다",
+    "english": "tell"
+  },
+  {
+    "korean": "기온",
+    "english": "temperature"
+  },
+  {
+    "korean": "사원",
+    "english": "temple, employee"
+  },
+  {
+    "korean": "테니스",
+    "english": "tennis"
+  },
+  {
+    "korean": "기간",
+    "english": "term, period"
+  },
+  {
+    "korean": "터미널",
+    "english": "terminal"
+  },
+  {
+    "korean": "교과서",
+    "english": "textbook"
+  },
+  {
+    "korean": "감사",
+    "english": "thank"
+  },
+  {
+    "korean": "고맙다",
+    "english": "thank"
+  },
+  {
+    "korean": "감사합니다",
+    "english": "thank you"
+  },
+  {
+    "korean": "감사드립니다",
+    "english": "thank you"
+  },
+  {
+    "korean": "감사하다",
+    "english": "thank, appreciate"
+  },
+  {
+    "korean": "덕분",
+    "english": "thanks for, thanks to"
+  },
+  {
+    "korean": "저",
+    "english": "that"
+  },
+  {
+    "korean": "저거",
+    "english": "that"
+  },
+  {
+    "korean": "저것",
+    "english": "that"
+  },
+  {
+    "korean": "그날",
+    "english": "that day"
+  },
+  {
+    "korean": "저분",
+    "english": "that person"
+  },
+  {
+    "korean": "것",
+    "english": "that, thing, it"
+  },
+  {
+    "korean": "모레",
+    "english": "the day after tomorrow"
+  },
+  {
+    "korean": "극장",
+    "english": "theater, cinema"
+  },
+  {
+    "korean": "그들",
+    "english": "them, they"
+  },
+  {
+    "korean": "그럼",
+    "english": "then"
+  },
+  {
+    "korean": "그때",
+    "english": "then, at that time"
+  },
+  {
+    "korean": "그러면",
+    "english": "then, if so"
+  },
+  {
+    "korean": "그런",
+    "english": "then, such"
+  },
+  {
+    "korean": "거기",
+    "english": "there"
+  },
+  {
+    "korean": "그곳",
+    "english": "there"
+  },
+  {
+    "korean": "저기",
+    "english": "there, over there"
+  },
+  {
+    "korean": "저쪽",
+    "english": "there, over there"
+  },
+  {
+    "korean": "그쪽",
+    "english": "there, the person"
+  },
+  {
+    "korean": "두껍다",
+    "english": "thick"
+  },
+  {
+    "korean": "얇다",
+    "english": "thin"
+  },
+  {
+    "korean": "생각하다",
+    "english": "think"
+  },
+  {
+    "korean": "생각",
+    "english": "thinking, thought"
+  },
+  {
+    "korean": "셋째",
+    "english": "third"
+  },
+  {
+    "korean": "이거",
+    "english": "this"
+  },
+  {
+    "korean": "이것",
+    "english": "this"
+  },
+  {
+    "korean": "이분",
+    "english": "this person"
+  },
+  {
+    "korean": "이곳",
+    "english": "this place, here"
+  },
+  {
+    "korean": "이번",
+    "english": "this time"
+  },
+  {
+    "korean": "이쪽",
+    "english": "this way, here, this person"
+  },
+  {
+    "korean": "올해",
+    "english": "this year"
+  },
+  {
+    "korean": "이런",
+    "english": "this, such ~"
+  },
+  {
+    "korean": "이",
+    "english": "this, tooth, 2"
+  },
+  {
+    "korean": "매다",
+    "english": "tie"
+  },
+  {
+    "korean": "호랑이",
+    "english": "tiger"
+  },
+  {
+    "korean": "때",
+    "english": "time"
+  },
+  {
+    "korean": "시간",
+    "english": "time"
+  },
+  {
+    "korean": "피곤하다",
+    "english": "tired"
+  },
+  {
+    "korean": "제목",
+    "english": "title"
+  },
+  {
+    "korean": "담배",
+    "english": "tobacco"
+  },
+  {
+    "korean": "오늘",
+    "english": "today"
+  },
+  {
+    "korean": "발가락",
+    "english": "toe(s)"
+  },
+  {
+    "korean": "두부",
+    "english": "tofu"
+  },
+  {
+    "korean": "두부찌개",
+    "english": "tofu soup"
+  },
+  {
+    "korean": "같이",
+    "english": "together"
+  },
+  {
+    "korean": "함께",
+    "english": "together"
+  },
+  {
+    "korean": "휴지",
+    "english": "toilet paper"
+  },
+  {
+    "korean": "토마토",
+    "english": "tomato"
+  },
+  {
+    "korean": "내일",
+    "english": "tomorrow"
+  },
+  {
+    "korean": "너무",
+    "english": "too, very"
+  },
+  {
+    "korean": "칫솔",
+    "english": "toothbrush"
+  },
+  {
+    "korean": "치약",
+    "english": "toothpaste"
+  },
+  {
+    "korean": "위",
+    "english": "top, up"
+  },
+  {
+    "korean": "만지다",
+    "english": "touch"
+  },
+  {
+    "korean": "타월",
+    "english": "towel"
+  },
+  {
+    "korean": "수건",
+    "english": "towel, washcloth"
+  },
+  {
+    "korean": "동네",
+    "english": "town, neighborhood"
+  },
+  {
+    "korean": "무역",
+    "english": "trade"
+  },
+  {
+    "korean": "교통",
+    "english": "traffic"
+  },
+  {
+    "korean": "교통사고",
+    "english": "traffic accident"
+  },
+  {
+    "korean": "기차",
+    "english": "train"
+  },
+  {
+    "korean": "열차",
+    "english": "train"
+  },
+  {
+    "korean": "갈아타다",
+    "english": "transfer"
+  },
+  {
+    "korean": "휴지통",
+    "english": "trash can"
+  },
+  {
+    "korean": "여행",
+    "english": "travel"
+  },
+  {
+    "korean": "여행사",
+    "english": "travel agency, travel firm"
+  },
+  {
+    "korean": "관광하다",
+    "english": "travel, sightsee"
+  },
+  {
+    "korean": "치료하다",
+    "english": "treat"
+  },
+  {
+    "korean": "나무",
+    "english": "tree"
+  },
+  {
+    "korean": "유행",
+    "english": "trend"
+  },
+  {
+    "korean": "끄다",
+    "english": "turn off, extinguish, stop"
+  },
+  {
+    "korean": "켜다",
+    "english": "turn on (the light, the power, etc.)"
+  },
+  {
+    "korean": "틀다",
+    "english": "turn on (the switch)"
+  },
+  {
+    "korean": "두",
+    "english": "two"
+  },
+  {
+    "korean": "이틀",
+    "english": "two days"
+  },
+  {
+    "korean": "태풍",
+    "english": "typhoon"
+  }
+]

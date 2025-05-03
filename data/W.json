@@ -1,0 +1,302 @@
+[
+  {
+    "korean": "수요일",
+    "english": "Wednesday"
+  },
+  {
+    "korean": "허리",
+    "english": "waist, hip"
+  },
+  {
+    "korean": "기다리다",
+    "english": "wait"
+  },
+  {
+    "korean": "깨다",
+    "english": "wake up, crack, break"
+  },
+  {
+    "korean": "걷다",
+    "english": "walk"
+  },
+  {
+    "korean": "산책",
+    "english": "walk"
+  },
+  {
+    "korean": "걸어오다",
+    "english": "walk (come)"
+  },
+  {
+    "korean": "걸어가다",
+    "english": "walk (go)"
+  },
+  {
+    "korean": "벽",
+    "english": "wall"
+  },
+  {
+    "korean": "지갑",
+    "english": "wallet"
+  },
+  {
+    "korean": "싶다",
+    "english": "want"
+  },
+  {
+    "korean": "원하다",
+    "english": "want, wish, desire"
+  },
+  {
+    "korean": "따뜻하다",
+    "english": "warm"
+  },
+  {
+    "korean": "세수하다",
+    "english": "wash"
+  },
+  {
+    "korean": "씻다",
+    "english": "wash"
+  },
+  {
+    "korean": "설거지",
+    "english": "washing dishes, dish-washing"
+  },
+  {
+    "korean": "세탁기",
+    "english": "washing machine"
+  },
+  {
+    "korean": "물",
+    "english": "water"
+  },
+  {
+    "korean": "수박",
+    "english": "watermelon"
+  },
+  {
+    "korean": "파",
+    "english": "wave, green onion"
+  },
+  {
+    "korean": "방법",
+    "english": "way, method"
+  },
+  {
+    "korean": "길",
+    "english": "way, road"
+  },
+  {
+    "korean": "저희",
+    "english": "we"
+  },
+  {
+    "korean": "우리",
+    "english": "we, us"
+  },
+  {
+    "korean": "날씨",
+    "english": "weather"
+  },
+  {
+    "korean": "일기예보",
+    "english": "weather forecast"
+  },
+  {
+    "korean": "결혼식",
+    "english": "wedding ceremony"
+  },
+  {
+    "korean": "주",
+    "english": "week"
+  },
+  {
+    "korean": "평일",
+    "english": "weekday"
+  },
+  {
+    "korean": "주말",
+    "english": "weekend"
+  },
+  {
+    "korean": "환영하다",
+    "english": "welcome"
+  },
+  {
+    "korean": "잘",
+    "english": "well"
+  },
+  {
+    "korean": "그렇구나",
+    "english": "well, I see."
+  },
+  {
+    "korean": "서쪽",
+    "english": "west, western"
+  },
+  {
+    "korean": "서양",
+    "english": "western, west"
+  },
+  {
+    "korean": "무슨",
+    "english": "what"
+  },
+  {
+    "korean": "무엇",
+    "english": "what"
+  },
+  {
+    "korean": "무엇이",
+    "english": "what"
+  },
+  {
+    "korean": "뭐",
+    "english": "what"
+  },
+  {
+    "korean": "언제",
+    "english": "when"
+  },
+  {
+    "korean": "어디",
+    "english": "where"
+  },
+  {
+    "korean": "어느",
+    "english": "which, how"
+  },
+  {
+    "korean": "어떤",
+    "english": "which, what"
+  },
+  {
+    "korean": "간",
+    "english": "while"
+  },
+  {
+    "korean": "하얗다",
+    "english": "white"
+  },
+  {
+    "korean": "하얀색",
+    "english": "white color"
+  },
+  {
+    "korean": "흰색",
+    "english": "white color"
+  },
+  {
+    "korean": "누가",
+    "english": "who"
+  },
+  {
+    "korean": "누구",
+    "english": "who"
+  },
+  {
+    "korean": "왜",
+    "english": "why"
+  },
+  {
+    "korean": "넓다",
+    "english": "wide"
+  },
+  {
+    "korean": "아내",
+    "english": "wife"
+  },
+  {
+    "korean": "부인",
+    "english": "wife, Mrs."
+  },
+  {
+    "korean": "바람",
+    "english": "wind"
+  },
+  {
+    "korean": "창문",
+    "english": "window"
+  },
+  {
+    "korean": "겨울",
+    "english": "winter"
+  },
+  {
+    "korean": "겨울방학",
+    "english": "winter vacation"
+  },
+  {
+    "korean": "닦다",
+    "english": "wipe, polish"
+  },
+  {
+    "korean": "안",
+    "english": "within, not ~"
+  },
+  {
+    "korean": "없이",
+    "english": "without"
+  },
+  {
+    "korean": "여자",
+    "english": "woman"
+  },
+  {
+    "korean": "원",
+    "english": "won (currency units of Korea)"
+  },
+  {
+    "korean": "단어",
+    "english": "word"
+  },
+  {
+    "korean": "말",
+    "english": "word, talk"
+  },
+  {
+    "korean": "말씀",
+    "english": "words, remarks"
+  },
+  {
+    "korean": "일하다",
+    "english": "work"
+  },
+  {
+    "korean": "일",
+    "english": "work, 1, day"
+  },
+  {
+    "korean": "직장",
+    "english": "workplace"
+  },
+  {
+    "korean": "세계",
+    "english": "world"
+  },
+  {
+    "korean": "월드컵",
+    "english": "world cup"
+  },
+  {
+    "korean": "걱정하다",
+    "english": "worry"
+  },
+  {
+    "korean": "상처",
+    "english": "wound, scratch"
+  },
+  {
+    "korean": "쓰다",
+    "english": "write, use, wear (glasses)"
+  },
+  {
+    "korean": "쓰기",
+    "english": "writing, dictation"
+  },
+  {
+    "korean": "틀리다",
+    "english": "wrong"
+  }
+]
