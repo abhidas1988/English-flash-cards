@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flashcard</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+    .card {
+      margin: 50px auto;
+      padding: 30px;
+      border: 2px solid #444;
+      border-radius: 15px;
+      max-width: 300px;
+      font-size: 1.2em;
+    }
+    .navigation { margin-top: 20px; }
+    button { margin: 0 10px; padding: 10px; }
+    #count { margin-top: 10px; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <a href="index.html">Home</a>
+  <div class="card" id="flashcard">Loading...</div>
+  <div class="navigation">
+    <button onclick="prevCard()">&lt;</button>
+    <button onclick="nextCard()">&gt;</button>
+  </div>
+  <div>
+    <input type="number" id="goto" placeholder="Go to" min="1" style="width: 80px;" />
+    <button onclick="goToCard()">Go</button>
+    <div id="count"></div>
+  </div>
+<script>
+let data = [];
+let index = 0;
+
+function loadFile(file) {
+  fetch(file).then(res => res.json()).then(json => {
+    data = json;
+    index = 0;
+    renderCard();
+  });
+}
+
+function renderCard() {
+  const card = document.getElementById("flashcard");
+  const count = document.getElementById("count");
+  if (data.length === 0) return;
+  const word = data[index];
+  card.innerHTML = `<b>${word.english}</b><br/><span style='display:none'>${word.korean}</span>`;
+  card.onclick = () => {
+    const span = card.querySelector("span");
+    span.style.display = span.style.display === "none" ? "inline" : "none";
+  };
+  count.textContent = `Word ${index + 1} of ${data.length}`;
+}
+
+function nextCard() { if (index < data.length - 1) { index++; renderCard(); } }
+function prevCard() { if (index > 0) { index--; renderCard(); } }
+function goToCard() {
+  const val = parseInt(document.getElementById("goto").value);
+  if (val >= 1 && val <= data.length) {
+    index = val - 1;
+    renderCard();
+  }
+}
+
+const params = new URLSearchParams(location.search);
+const file = params.get("file");
+if (file) loadFile(file);
+</script>
+</body>
+</html>
